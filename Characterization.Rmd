@@ -1,3 +1,4 @@
+<!-- Translation: French -->
 # Characterization {#Characterization}
 
 *Chapter leads: Anthony Sena & Daniel Prieto-Alhambra*
